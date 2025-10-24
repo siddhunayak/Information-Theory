@@ -12,7 +12,6 @@ The implementation is in **PyTorch** and includes:
 - Training scripts for baseline and regularized multi-layer perceptrons (MLPs).
 - Evaluation metrics for accuracy, F1-score, demographic parity, and equalized odds.
 
-This work is accompanied by a technical analysis paper: *[A Technical Analysis of PID-Based Fairness Regularization in Neural Networks: Implementation, Evaluation, and Insights](paper.pdf)* (IEEEtran format).
 
 ## 🚀 Quick Start
 
